@@ -46,7 +46,7 @@ def main():
     result = hconcat_resize_min(imgs)
 
     # 保存
-    cv2.imwrite('/data/result.jpg', result)
+    cv2.imwrite('/data/result.png', result)
 
 
 if __name__ == '__main__':
