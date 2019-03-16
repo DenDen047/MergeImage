@@ -3,7 +3,7 @@ import sys
 
 
 def main():
-    pass
+    print('hello main.py')
 
 if __name__ == '__main__':
     main()
